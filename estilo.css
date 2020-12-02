@@ -1,0 +1,212 @@
+@charset "UTF-8";
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    color: rgba(0, 0, 0, 1);
+    margin: 0;
+    padding: 0;
+    color: #2F2E2E;
+
+}
+
+img.imgbaixo {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+img.imgcima {
+    position: absolute;
+    right: 500px;
+    top: 80px;
+
+}
+
+.img2 {
+    width: 100%;
+    height: 500px;
+    position: relative;
+
+
+}
+
+.txtadote {
+    position: absolute;
+    padding-top: 150px;
+    padding-left: 200px;
+    color: #2F2E2E;
+    text-align: center;
+}
+
+header {
+    background-color: #FFB91D;
+}
+
+.txtso {
+    color: #2F2E2E;
+    text-align: center;
+
+
+}
+
+.textso1 {
+    color: #605E5E;
+    color: gray;
+    text-align: center;
+
+}
+
+.txtso2 {
+    color: #605E5E;
+    color: gray;
+    text-align: center;
+}
+
+.fundo {
+    background-color: #F2F2F2;
+
+}
+
+section {
+    margin-right: 80px;
+    display: inline-block;
+
+
+}
+
+.sec {
+    margin-left: 100px;
+    Margin-right: auto;
+    text-align: center;
+
+}
+
+.conheca {
+    color: #2F2E2E;
+    position: relative;
+    text-align: center;
+}
+
+.imgideia {
+    position: relative;
+    text-align: center;
+}
+
+.imgseg {
+    position: relative;
+    text-align: center;
+
+}
+
+.imguser {
+    position: relative;
+    text-align: center;
+}
+
+
+.txtseg {
+    position: relative;
+    text-align: center;
+}
+
+.textsup {
+    position: relative;
+    text-align: center;
+}
+
+.textperf {
+    position: relative;
+    text-align: center;
+}
+
+
+.textperf1 {
+    position: relative;
+    text-align: center;
+}
+
+.txtsup1 {
+    position: relative;
+    text-align: center;
+}
+
+.txtseg1 {
+    position: relative;
+    text-align: center;
+}
+
+.fundof {
+    background-color: #CFDFF2;
+}
+
+.txtfale {
+    text-align: center;
+}
+
+.txtf {
+    text-align: center;
+}
+
+.imgfb {
+    padding-left: 615px;
+}
+
+form {
+    font-size: 16px;
+    background: #CFDFF2;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0 10px 10px 10px;
+
+}
+
+textarea {
+    width: 470px;
+    padding: 30px;
+}
+
+input {
+    width: 470px;
+    padding: 10px;
+}
+
+.enviar input {
+    background-color: #0F293C;
+    height: 35px;
+    width: 140px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+.enviar input:hover {
+    background: #078;
+}
+
+textarea {
+    width: 470px;
+    height: 120px;
+    line-height: 20px;
+}
+
+.adopet {
+    text-shadow: -1px 0, 0 1px white,
+    1px 0 white, 0 -1px white;
+}
+
+mark {
+    background-color: #F4EAB1;
+    color: #000000;
+
+}
+
+.slogan {
+    text-align: center;
+}
